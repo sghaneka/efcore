@@ -1,0 +1,7 @@
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SamuraiApp.Domain\bin\Debug\netcoreapp1.1\SamuraiApp.Domain.deps.json
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SamuraiApp.Domain\bin\Debug\netcoreapp1.1\SamuraiApp.Domain.dll
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SamuraiApp.Domain\bin\Debug\netcoreapp1.1\SamuraiApp.Domain.pdb
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SamuraiApp.Domain\obj\Debug\netcoreapp1.1\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SamuraiApp.Domain\obj\Debug\netcoreapp1.1\SamuraiApp.Domain.dll
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SamuraiApp.Domain\obj\Debug\netcoreapp1.1\SamuraiApp.Domain.pdb
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SamuraiApp.Domain\obj\Debug\netcoreapp1.1\SamuraiApp.Domain.csprojResolveAssemblyReference.cache

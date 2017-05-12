@@ -1,0 +1,13 @@
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\bin\Debug\netcoreapp1.1\SomeUI.deps.json
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\bin\Debug\netcoreapp1.1\SomeUI.runtimeconfig.json
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\bin\Debug\netcoreapp1.1\SomeUI.runtimeconfig.dev.json
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\bin\Debug\netcoreapp1.1\SomeUI.dll
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\obj\Debug\netcoreapp1.1\SomeUI.csprojResolveAssemblyReference.cache
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\obj\Debug\netcoreapp1.1\SomeUI.AssemblyInfo.cs
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\bin\Debug\netcoreapp1.1\SomeUI.pdb
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\bin\Debug\netcoreapp1.1\SamuraiApp.Data.dll
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\bin\Debug\netcoreapp1.1\SamuraiApp.Domain.dll
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\bin\Debug\netcoreapp1.1\SamuraiApp.Data.pdb
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\bin\Debug\netcoreapp1.1\SamuraiApp.Domain.pdb
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\obj\Debug\netcoreapp1.1\SomeUI.dll
+C:\Users\s.ghanekar\Documents\Visual Studio 2017\Projects\demo\SamuraiApp\SomeUI\obj\Debug\netcoreapp1.1\SomeUI.pdb
